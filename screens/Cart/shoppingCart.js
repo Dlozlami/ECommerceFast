@@ -26,6 +26,8 @@ export default function ShoppingCart() {
               height: "15%",
             }}
           >
+
+            
             <Text style={{ ...styles.title }}>Shopping Cart</Text>
             <Text style={styles.boldGrey}>3 items</Text>
           </View>
