@@ -8,7 +8,7 @@ import {
   ScrollView,
 } from "react-native";
 import React from "react";
-import itemImage from "./assets/images/mockTshirt.png";
+import itemImage from "../../assets/images/mockTshirt.png";
 
 export default function ShoppingCart() {
   const items = [1, 2, 3, 4, 5, 6, 7];
